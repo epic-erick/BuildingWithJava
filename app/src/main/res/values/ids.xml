@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <item name="button_one" type="id"/>
+    <item name="EDITTEXTUSERNAME" type="id"/>
+</resources>
